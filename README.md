@@ -61,7 +61,7 @@
 
 ### 1. تحميل الأداة وتجهيز الصلاحيات
 ```bash
-git clone https://github.com/yourusername/scan3l.git
+git clone https://github.com/imostafaa7/scan3l.git
 cd scan3l
 chmod +x scan3l.py
 ```
